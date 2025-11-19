@@ -5,7 +5,7 @@ RT is a novel Decision Transformer approach that enables trajectory stitching by
 ## Installation
 We prepared a Dockerfile and bash scripts to set up the environment.
 
-1. Build the Docker image and start a Docker container 
+1. Build the conda environment
 ```bash
 # Download the code from this repo
 git clone https://github.com/HeshengChomsky/RTCode.git
