@@ -1,6 +1,6 @@
 # RT
 
-RT is a novel Decision Transformer approach that enables trajectory stitching by adopting different history length.
+RT is a novel data augmentation algorithm based on the Transformer.
 
 ## Installation
 We prepared a Dockerfile and bash scripts to set up the environment.
